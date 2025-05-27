@@ -16,4 +16,4 @@ This project reads a restaurant menu from a text file and categorizes food items
 - C++
 
 ## Developed By
-- Alp Eren Kul – Student ID: 22244710073
+- Alp Eren Kul 
